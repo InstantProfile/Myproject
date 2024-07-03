@@ -1,6 +1,8 @@
+# My gitignore
 .venv
 .idea/
 mkdocs/
+
 # Created by https://www.gitignore.io
 
 ### OSX ###
