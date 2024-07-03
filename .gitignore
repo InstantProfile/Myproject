@@ -1,6 +1,6 @@
 .venv
 .idea/
-petmk/
+mkdocs/
 # Created by https://www.gitignore.io
 
 ### OSX ###
